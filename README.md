@@ -5,6 +5,9 @@ This task is to create a static website for the company CompWallah.
 <h4>Techonologies Used:</h4> HTML, CSS , JavaScript
 <br>
 
+
+<br>
+
 **TASK-2 :PERSONAL PORTFOLIO WEBSITE**
 <br>
 This task is to create a personal portfolio website to showcase my academics, skills , qualifications, projects and internships
